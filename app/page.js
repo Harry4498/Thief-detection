@@ -4,7 +4,7 @@ export default function Home() {
     <div className=" relative flex w-full h-full justify-center flex-col  items-center ">
       <div className="">
         <h1 className="gradient-title font-extrabold text-3xl md:text-6xl lg:text-8xl tracking-tighter md:px-6 text-center">
-          Theif Detection Alarm
+          Thief Detection Alarm 
         </h1>
       </div>
       <div className="m-5">
